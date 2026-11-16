@@ -1,0 +1,11 @@
+[workspace]
+authors = ["camille-s <3202150+camille-s@users.noreply.github.com>"]
+channels = ['conda-forge', "bioconda"]
+name = "stl-data-viz"
+platforms = ['linux-64']
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+snakemake = ">=9.27.1,<10"
