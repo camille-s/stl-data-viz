@@ -7,3 +7,7 @@
 **/*.quarto_ipynb
 **/*.zip
 .vscode
+.env
+.snakemake
+*.html
+*_files

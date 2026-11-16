@@ -1,0 +1,81 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+// fonts
+$font-family-sans-serif: 'Source Sans 3', 'Barlow', sans-serif !default;
+
+// colors
+// $body-bg: #3a3a3a !default;
+$body-bg: #ededed !default;
+// $body-color: #fff !default;
+$link-color: #026e63 !default;
+$selection-bg: #13978a !default;
+$input-panel-bg: rgba(233, 236, 239, 0.2) !default;
+
+// headings
+$presentation-heading-font: "Source Code Pro", monospace !default;
+$presentation-heading-letter-spacing: -0.03em;
+
+// code blocks
+$code-block-border-color: rgba(233, 236, 239, 0.5) !default;
+
+
+// custom
+html {
+    font-family: $font-family-sans-serif;
+ }
+
+em {
+    color: $selection-bg;
+}
+
+figcaption, p.caption {
+    // font-family: $presentation-heading-font;
+}
+
+.small {
+    font-size: 0.8rem;
+}
+
+table.gt_table * {
+    // font-size: large;
+}
+
+.table-top table td {
+    vertical-align: top;
+}
+
+.reveal .slide table td li {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.05em;
+}
+
+.reveal .slides table.table.table-condensed {
+    th, td {
+        padding: 0.1em 0.25em;
+    }
+}
+
+.reveal .slides section.slide.smaller {
+    h2 {
+        font-size: 1.5em;
+    }
+    table {
+        font-size: 0.8em;
+        td {
+            padding: 0.2rem 0.8rem;
+        }
+    }
+}
+
+.column[style="width:0%;"] {
+    display: none;
+}
+
+span.citation {
+    font-size: 0.8em;
+}
+

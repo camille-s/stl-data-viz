@@ -1,0 +1,105 @@
+year,span,name,code,question,category,group,response,value,group2
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,Connecticut,Yes,0.18,Total
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.14,Male
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.22,Female
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Nonbinary,Yes,0.32,Nonbinary
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-34,Yes,0.25,Ages 18-34
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 35-49,Yes,0.24,Ages 35-49
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50-64,Yes,0.18,Ages 50-64
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 65+,Yes,0.06,Ages 65+
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,White,Yes,0.13,White
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Black,Yes,0.32,Black
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Latino,Yes,0.29,Latino
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Asian,Yes,0.09,Asian
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Indigenous,Yes,0.38,Indigenous
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,High school or less,Yes,0.29,High school or less
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Some college or Associate's,Yes,0.25,Some college or Associate's
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Bachelor's or higher,Yes,0.09,Bachelor's or higher
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$30K,Yes,0.43,<$30K
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$30K-$100K,Yes,0.2,$30K-$100K
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K-$200K,Yes,0.06,$100K-$200K
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$200K+,Yes,0.03,$200K+
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.16,No kids
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.24,Kids in home
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Cisgender and straight,Yes,0.17,Cisgender and straight
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Identifies as LGBTQ,Yes,0.28,Identifies as LGBTQ
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born in the US,Yes,0.18,Born in the US
+2024,2024,Connecticut,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born outside the US,Yes,0.21,Born outside the US
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,Greater New Haven,Yes,0.21,Total
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.18,Male
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.23,Female
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-34,Yes,0.3,Ages 18-34
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 35-49,Yes,0.27,Ages 35-49
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50-64,Yes,0.2,Ages 50-64
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 65+,Yes,0.05,Ages 65+
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,White,Yes,0.16,White
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Black,Yes,0.31,Black
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Latino,Yes,0.33,Latino
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,High school or less,Yes,0.35,High school or less
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Some college or Associate's,Yes,0.29,Some college or Associate's
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Bachelor's or higher,Yes,0.11,Bachelor's or higher
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$30K,Yes,0.44,<$30K
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$30K-$100K,Yes,0.21,$30K-$100K
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K+,Yes,0.08,$100K+
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.19,No kids
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.26,Kids in home
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Cisgender and straight,Yes,0.19,Cisgender and straight
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Identifies as LGBTQ,Yes,0.31,Identifies as LGBTQ
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born in the US,Yes,0.21,Born in the US
+2024,2024,Greater New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born outside the US,Yes,0.19,Born outside the US
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,New Haven,Yes,0.27,Total
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.23,Male
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.3,Female
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-34,Yes,0.3,Ages 18-34
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 35-49,Yes,0.36,Ages 35-49
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50-64,Yes,0.21,Ages 50-64
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 65+,Yes,0.11,Ages 65+
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,White,Yes,0.14,White
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Black,Yes,0.31,Black
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Race/Ethnicity,Latino,Yes,0.39,Latino
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,High school or less,Yes,0.4,High school or less
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Some college or Associate's,Yes,0.31,Some college or Associate's
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Bachelor's or higher,Yes,0.16,Bachelor's or higher
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$30K,Yes,0.44,<$30K
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$30K-$100K,Yes,0.26,$30K-$100K
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K+,Yes,0.04,$100K+
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.21,No kids
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.39,Kids in home
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Cisgender and straight,Yes,0.26,Cisgender and straight
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Sexual orientation & gender identity,Identifies as LGBTQ,Yes,0.35,Identifies as LGBTQ
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born in the US,Yes,0.28,Born in the US
+2024,2024,New Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Place of birth,Born outside the US,Yes,0.26,Born outside the US
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,Hamden,Yes,0.19,Total
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.13,Male
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.19,Female
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-49,Yes,0.21,Ages 18-49
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50+,Yes,0.16,Ages 50+
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$100K,Yes,0.27,<$100K
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K+,Yes,0.09,$100K+
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.16,No kids
+2024,2024,Hamden,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.25,Kids in home
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,Milford,Yes,0.15,Total
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.13,Male
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.15,Female
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-49,Yes,0.21,Ages 18-49
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50+,Yes,0.11,Ages 50+
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,High school or less,Yes,0.23,High school or less
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Some college or Associate's,Yes,0.22,Some college or Associate's
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Bachelor's or higher,Yes,0.1,Bachelor's or higher
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$100K,Yes,0.25,<$100K
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K+,Yes,0.09,$100K+
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.17,No kids
+2024,2024,Milford,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.11,Kids in home
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Total,West Haven,Yes,0.24,Total
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Male,Yes,0.32,Male
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Gender,Female,Yes,0.18,Female
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 18-49,Yes,0.3,Ages 18-49
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Age,Ages 50+,Yes,0.17,Ages 50+
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,High school or less,Yes,0.37,High school or less
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Some college or Associate's,Yes,0.3,Some college or Associate's
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Education,Bachelor's or higher,Yes,0.1,Bachelor's or higher
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,<$30K,Yes,0.44,<$30K
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$30K-$100K,Yes,0.25,$30K-$100K
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,Income,$100K+,Yes,0.12,$100K+
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,No kids,Yes,0.2,No kids
+2024,2024,West Haven,Q62,Have there been times in the past 12 months when you did not have enough money to buy food that you or your family needed?,With children,Kids in home,Yes,0.36,Kids in home

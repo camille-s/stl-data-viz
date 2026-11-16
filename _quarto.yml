@@ -1,5 +1,5 @@
 project:
   title: "Data viz for public health"
-
-
-
+  preview:
+    port: 8200
+    watch-inputs: true
