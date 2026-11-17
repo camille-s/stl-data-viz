@@ -87,11 +87,7 @@ food_towns <- dfs[["food_town"]]
 
 ## Warm-up: everyday data viz
 
-Think through the past 24 hours. Jot down some of the data visualizations you encountered, including maps. 
-
-- Think less technical/academic, more casual
-
-### Links
+Think through the past 24 hours. Jot down some of the data visualizations you encountered, including maps. Think less technical/academic, more casual
 
 - Slides are online: https://camille-s.github.io/stl-data-viz
 - So is the code that made them: https://github.com/camille-s/stl-data-viz
