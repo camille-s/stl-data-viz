@@ -91,6 +91,10 @@ Think through the past 24 hours. Jot down some of the data visualizations you en
 
 - Think less technical/academic, more casual
 
+### Links
+
+- Slides are online: https://camille-s.github.io/stl-data-viz
+- So is the code that made them: https://github.com/camille-s/stl-data-viz
 
 ## About me {.smaller}
 
@@ -100,8 +104,6 @@ Think through the past 24 hours. Jot down some of the data visualizations you en
 * Very excited about useful data, nice visualizations, and good code 
 * Also very skeptical & critical of data science and its applications
 
-- Slides are online: https://camille-s.github.io/stl-data-viz
-- So is the code that made them: https://github.com/camille-s/stl-data-viz
 
 
 ## What is data visualization?
