@@ -204,6 +204,7 @@ Some examples:
 +----------------+-----------------------+----------------------+
 | Audience       | Purpose               | Venue                |
 +================+=======================+======================+
+| - Residents    |                       |                      |
 | - Clinicians   | - Learning about data | - Print report       |
 | - Researchers  | - Explaining an issue | - Online dashboard   |
 | - Policymakers | - Persuading reader   | - Interactive        |
@@ -520,7 +521,7 @@ Examples:
 
 - _Birth outcomes:_ for some measures, unit might be babies; for others, parent giving birth
 - _Survey respondents:_ is a survey given to the population at large, or just adults?
-- _Households:_ is this rate the share of households, or the share of heads of households, or the share of households by some characteristic of the heads of households?
+- _Households:_ is this rate the share of households, or the share of heads of households, or the share of households by some characteristic of the heads of households, or the share of the population by some characteristic of the households they live in?
 
 
 # Ethical data viz
